@@ -1,2 +1,3 @@
 # Hello-World
-My first repository
+座右铭：
+计算机世界中没有魔法，所有的东西都只是我现在不知道而已，总有一天我会知道的！
